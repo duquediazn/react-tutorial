@@ -1,12 +1,9 @@
 # React Tutorial
 Este tutorial está pensado como una **guía práctica y ordenada** para introducirse en React.  
-No es un curso original desde cero: muchos ejemplos provienen de recursos ya existentes, como:
 
-- El curso de [freeCodeCamp en YouTube](https://www.youtube.com/watch?v=x4rFhThSX04).  
-- Partes del curso de [Desarrollo Web en Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/37806286#overview).  
-- La propia [documentación oficial de React](https://es.react.dev/learn).  
-
-A estos materiales he añadido mis propios apuntes, comentarios y estructura, con el objetivo de **unificar conocimientos dispersos en un solo documento en español**. Básicamente, la guía que me hubiese gustado tener cuando empecé a aprender React.  
+**Referencias**:
+- El curso de [freeCodeCamp en YouTube](https://www.youtube.com/watch?v=x4rFhThSX04).   
+- La propia [documentación oficial de React](https://es.react.dev/learn).    
 
 ## Conocimientos previos necesarios
 Para poder seguir con soltura este tutorial, conviene tener una base en:
@@ -16,7 +13,7 @@ Para poder seguir con soltura este tutorial, conviene tener una base en:
 
 También es recomendable entender qué es el **DOM** y cómo manipularlo con JavaScript, ya que muchos conceptos de React tienen que ver con abstraer y simplificar ese trabajo.  
 
-Si aún no tienes esas bases, mi recomendación es repasar primero esos temas y luego volver aquí: React será mucho más fácil de entender.  
+Si aún no tienes esas bases, aprende primero sobre esos temas y luego vuelve aquí: React será mucho más fácil de entender.  
 
 ---
 
